@@ -1,6 +1,6 @@
 El sistema de biblioteca permitirá registrar libros, usuarios y gestionar el préstamo y devolución de los libros. Todo debe manejarse en memoria y a través de un menú de consola que ofrezca las siguientes funcionalidades:
 
-Funcionalidades
+**Funcionalidades**
 -Agregar Libro: Permite agregar un nuevo libro a la biblioteca ingresando el título, autor e ISBN. Al agregar un libro, debe quedar marcado como disponible para ser prestado.
 -Registrar Usuario: Permite registrar un nuevo usuario en la biblioteca ingresando su nombre e identificador de usuario. Cada usuario tendrá una lista de libros prestados.
 -Prestar Libro: Permite a un usuario tomar prestado un libro disponible. Se pedirá el ISBN del libro y el ID del usuario. El sistema debe verificar que el libro esté disponible antes de prestarlo. Si el libro está disponible, debe actualizarse su estado a no disponible.
@@ -9,7 +9,7 @@ Funcionalidades
 -Ver Libros Prestados de un Usuario: Permite ver los libros actualmente prestados por un usuario específico, solicitando el ID del usuario.
 -Salir: Finaliza la aplicación.
 
-Requisitos Técnicos
+**Requisitos Técnicos**
 -Implementar las clases Libro, Usuario y Biblioteca.
 -La clase Libro debe contener propiedades como título, autor, ISBN y si está disponible o no.
 -La clase Usuario debe contener el nombre del usuario, su ID y una lista de libros prestados.
