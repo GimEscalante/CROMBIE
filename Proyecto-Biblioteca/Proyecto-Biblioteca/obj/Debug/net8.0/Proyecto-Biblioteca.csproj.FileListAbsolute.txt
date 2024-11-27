@@ -1,0 +1,14 @@
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\bin\Debug\net8.0\Proyecto-Biblioteca.exe
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\bin\Debug\net8.0\Proyecto-Biblioteca.deps.json
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\bin\Debug\net8.0\Proyecto-Biblioteca.runtimeconfig.json
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\bin\Debug\net8.0\Proyecto-Biblioteca.dll
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\bin\Debug\net8.0\Proyecto-Biblioteca.pdb
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.AssemblyInfoInputs.cache
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.AssemblyInfo.cs
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.dll
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\refint\Proyecto-Biblioteca.dll
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.pdb
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\Proyecto-Biblioteca.genruntimeconfig.cache
+C:\Users\gimee\OneDrive\Escritorio\Proyecto-Biblioteca\Proyecto-Biblioteca\obj\Debug\net8.0\ref\Proyecto-Biblioteca.dll
