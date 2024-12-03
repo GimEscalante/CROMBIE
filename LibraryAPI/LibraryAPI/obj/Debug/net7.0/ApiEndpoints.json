@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "AddBook",
+    "RelativePath": "api/Library/books",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookDto",
+        "Type": "LibraryAPI.DTOs.CreateBookDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/Library/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "GetBook",
+    "RelativePath": "api/Library/books/{isbn}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "BorrowBook",
+    "RelativePath": "api/Library/books/{isbn}/borrow/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "ReturnBook",
+    "RelativePath": "api/Library/books/{isbn}/return/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/Library/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "LibraryAPI.DTOs.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.LibraryController",
+    "Method": "GetUserBooks",
+    "RelativePath": "api/Library/users/{userId}/books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
